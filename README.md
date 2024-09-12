@@ -5,6 +5,13 @@ This is a full-featured job board application where users can search, filter, an
 
 Demo video can be found here --> ![Video](https://kaifhalak.github.io/JobBoard/demo-vid.mp4)
 
+
+## Note
+- The git histories can be found in their respective repos:
+    - [jobBoardClient](https://github.com/KaifHalak/jobBoardClient)
+    - [jobBoardServer](https://github.com/KaifHalak/jobBoardServer)
+
+
 ## Features
 
 ### Users
@@ -71,8 +78,3 @@ npm run build
 ```
 npm run server
 ```
-
-## Note
-- The git histories can be found in their respective repos:
-    - [jobBoardClient](https://github.com/KaifHalak/jobBoardClient)
-    - [jobBoardServer](https://github.com/KaifHalak/jobBoardServer)
