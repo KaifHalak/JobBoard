@@ -3,7 +3,7 @@
 ## Overview
 This is a full-featured job board application where users can search, filter, and save jobs as well as post job opportunities.
 
-![Demo Vid](demo-vid.mp4)
+Demo video can be found here --> ![Video](https://github.com/KaifHalak/JobBoard/blob/master/README.md)
 
 ## Features
 
